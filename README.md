@@ -27,4 +27,16 @@ Se observa que hay satisfacción pero que no hay igualdad de genero en todos los
 
 ![Hoja 2 (1)](https://github.com/user-attachments/assets/fc609171-c817-4441-b371-3c202702dada)
 
+Este grafico (Barras) muestra como el estado civil de los empleados influye en las actividades del día a día. Se parte en dos para ver por genero quien tiene mas ausencias y retardos. Como era de esperarse el estado civil soltero y casado son los mas relevantes dejando claro que el genero femenino en ambos estados presenta mas ausencias y llegadas tarde que el género masculino y que el estado civil divorciado las mujeres no tienen retardos, pero si más ausencias. 
+
+![Hoja 1](https://github.com/user-attachments/assets/610d33d1-7885-4348-a885-2ce6b4dd0c7d)
+
+Por último, este grafico circular nos indica la carga de trabajo especial por departamento. 
+
+![Hoja 3](https://github.com/user-attachments/assets/ada4efe2-8ec6-468c-bf1e-5423b300e2a3)
+
+Aquí vemos como el departamento de IT/IS mantiene en su mayoría los proyectos especiales de la empresa y que todos pensarían que el de producción seria el que tuviera mas trabajo pero no es el caso.
+
+## Conclusión.
+
 
