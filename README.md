@@ -35,8 +35,13 @@ Por último, este grafico circular nos indica la carga de trabajo especial por d
 
 ![Hoja 3](https://github.com/user-attachments/assets/ada4efe2-8ec6-468c-bf1e-5423b300e2a3)
 
-Aquí vemos como el departamento de IT/IS mantiene en su mayoría los proyectos especiales de la empresa y que todos pensarían que el de producción seria el que tuviera mas trabajo pero no es el caso.
+Aquí vemos como el departamento de IT/IS mantiene en su mayoría los proyectos especiales de la empresa y que todos pensarían que el de producción sería el que tuviera mas trabajo pero no es el caso.
 
 ## Conclusión.
+Considero que no hay ningún inconveniente con el fomento de reclutamiento, pero que si es necesario revisar porque el genero masculino no esta mas presente y eso lo pueden checar mediante las actividades que debe realizar cada puesto de cada departamento y ver si otros departamentos pueden aportar mas a los trabajos especiales para equilibrar mejor la carga de trabajo. 
+
+Dejo el Enlace del Dasboard de Tableau para que puedan ver los gráficos con su dinámica.
+
+https://public.tableau.com/shared/HS6CXNY82?:display_count=n&:origin=viz_share_link
 
 
